@@ -14,6 +14,16 @@ Users can simply upload their medical prescriptions, and ElderEase intelligently
 
 📓 AI-Powered Daily Journal
 Mental wellness matters. ElderEase includes a daily journaling assistant that engages in short reflective conversations with users, tracks their mood, and encourages positive mental health practices through tailored prompts and affirmations.
+
+![ee1](https://github.com/user-attachments/assets/33c7e461-e3cb-4b7a-bfee-8d7cdcff6a9e)
+
+![ee2](https://github.com/user-attachments/assets/5c924daa-8193-4176-aa2e-17b029fa6ac6)
+
+![ee3](https://github.com/user-attachments/assets/bc39799f-867d-42f3-8e09-f7f3153fe09b)
+
+![ee4](https://github.com/user-attachments/assets/682532c5-0899-49cf-8140-d78455748151)
+
+
 ## 🛠️ Local Development Setup
 
 1. Clone the repository:
